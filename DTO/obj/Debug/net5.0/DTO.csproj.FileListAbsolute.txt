@@ -1,0 +1,12 @@
+D:\TennisCOurt\TennisCourtApp\DTO\bin\Debug\net5.0\DTO.deps.json
+D:\TennisCOurt\TennisCourtApp\DTO\bin\Debug\net5.0\DTO.dll
+D:\TennisCOurt\TennisCourtApp\DTO\bin\Debug\net5.0\ref\DTO.dll
+D:\TennisCOurt\TennisCourtApp\DTO\bin\Debug\net5.0\DTO.pdb
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.dll
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\ref\DTO.dll
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.pdb
+D:\TennisCOurt\TennisCourtApp\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache

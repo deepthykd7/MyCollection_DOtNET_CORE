@@ -1,0 +1,15 @@
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\DataSource.deps.json
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\DataSource.dll
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\ref\DataSource.dll
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\DataSource.pdb
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\DTO.dll
+D:\TennisCOurt\TennisCourtApp\DataSource\bin\Debug\net5.0\DTO.pdb
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.csproj.AssemblyReference.cache
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.AssemblyInfoInputs.cache
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.AssemblyInfo.cs
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.csproj.CoreCompileInputs.cache
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.csproj.CopyComplete
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.dll
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\ref\DataSource.dll
+D:\TennisCOurt\TennisCourtApp\DataSource\obj\Debug\net5.0\DataSource.pdb
